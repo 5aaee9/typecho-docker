@@ -9,7 +9,7 @@ RUN apk --update --no-cache add nginx unzip wget && \
   chmod +x /run.sh && \
   mkdir -p /var/www && \
   wget http://typecho.org/downloads/$TYPECHO_VERSION-release.tar.gz -O typecho.tgz && \
-  tar zxcf typecho.tgz && \
+  tar zxvf typecho.tgz && \
   mv build/* /var/www && \
   rm -f typecho.tgz 
 
