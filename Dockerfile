@@ -1,4 +1,4 @@
-FROM 7.2.10-fpm-alpine3.8
+FROM php:7.2.10-fpm-alpine3.8
 LABEL maintainer="i@indexyz.me"
 
 ENV TYPECHO_VERSION 1.1-17.10.30
