@@ -1,5 +1,4 @@
-set -e
-
+#!/bin/sh
 php-fpm&
 
 nginx 
