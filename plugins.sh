@@ -31,3 +31,8 @@ git clone https://github.com/Indexyz/FriendsCard.git FriendsCard
 
 mkdir Analytics
 wget https://gist.githubusercontent.com/Indexyz/c5b52f773eac14456d3385d3f58d8d4f/raw/70a75ad46f98991a853bc83bcd42a20ec9818ed7/Analytics_Plugin.php -O Analytics/Plugin.php
+
+# Sitemap
+git clone https://github.com/bayunjiang/typecho-sitemap.git
+mv typecho-sitemap/Sitemap .
+rm -rf typecho-sitemap
