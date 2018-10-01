@@ -18,3 +18,7 @@ git clone https://github.com/MoePlayer/APlayer-Typecho.git Meting
 wget https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/Prism.zip
 unzip Prism.zip
 rm -f Prism.zip
+
+# GitHub Cards
+
+git clone https://github.com/chekun/typecho-github-card.git GithubCard
