@@ -22,3 +22,7 @@ rm -f Prism.zip
 # GitHub Cards
 
 git clone https://github.com/chekun/typecho-github-card.git GithubCard
+
+# Friends card
+
+git clone https://github.com/Indexyz/FriendsCard.git FriendsCard
