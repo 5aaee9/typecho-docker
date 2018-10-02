@@ -36,3 +36,8 @@ wget https://gist.githubusercontent.com/Indexyz/c5b52f773eac14456d3385d3f58d8d4f
 git clone https://github.com/bayunjiang/typecho-sitemap.git
 mv typecho-sitemap/Sitemap .
 rm -rf typecho-sitemap
+
+# CDN switch
+wget https://publish.indexyz.me/files/CDNSwitch.zip
+unzip CDNSwitch.zip
+rm -f CDNSwitch.zip
